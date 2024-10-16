@@ -1,6 +1,6 @@
 # Weather App 🌤️ 
 WEATHER APP LINK -
-CLICK ME - ![Weather App](https://github.com/MJ441/Weather-App/tree/master)
+CLICK ME - [Weather App](https://github.com/MJ441/Weather-App/tree/master)
 
 A simple and elegant weather app built using **Jetpack Compose**. This app fetches real-time weather data using the **OpenWeather API** and displays it with a clean UI. It supports multiple units of measurement and has various features like viewing weather details, favorites, and settings.
 
