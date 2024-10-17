@@ -17,7 +17,7 @@ A simple and elegant weather app built using **Jetpack Compose**. This app fetch
 
 | About Screen | Main Screen | Favorites Screen | Settings Screen | Search screen   |
 |---------------|-------------|-----------------|-----------------|-----------------|
-| ![About Screen](https://github.com/MJ441/Joson/blob/main/About%20screen.png) | ![Main Screen](https://github.com/MJ441/Joson/blob/main/Main%20screen.png ) | ![ SAVE Screen]( https://github.com/MJ441/Joson/blob/main/save%20in%20dao.png) | ![Settings Screen]( https://github.com/MJ441/Joson/blob/main/save.png) |
+| About Screen-(https://github.com/MJ441/Joson/blob/main/About%20screen.png) | [Main Screen](https://github.com/MJ441/Joson/blob/main/Main%20screen.png ) | ![ SAVE Screen]( https://github.com/MJ441/Joson/blob/main/save%20in%20dao.png) | ![Settings Screen]( https://github.com/MJ441/Joson/blob/main/save.png) |
 ![Search screen](https://github.com/MJ441/Joson/blob/main/search.png)
 ## Tech Stack 🛠️
 
