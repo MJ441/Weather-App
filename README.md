@@ -1,6 +1,6 @@
 # Weather App 🌤️ 
 WEATHER APP LINK -
-CLICK ME - (https://github.com/MJ441/Weather-App/tree/master)
+CLICK ME -  [WEATHER APP ](https://github.com/MJ441/Weather-App/tree/master)
 
 A simple and elegant weather app built using **Jetpack Compose**. This app fetches real-time weather data using the **OpenWeather API** and displays it with a clean UI. It supports multiple units of measurement and has various features like viewing weather details, favorites, and settings.
 
@@ -17,8 +17,8 @@ A simple and elegant weather app built using **Jetpack Compose**. This app fetch
 
 | About Screen | Main Screen | Favorites Screen | Settings Screen | Search screen   |
 |---------------|-------------|-----------------|-----------------|-----------------|
-| About Screen-(https://github.com/MJ441/Joson/blob/main/About%20screen.png) | [Main Screen](https://github.com/MJ441/Joson/blob/main/Main%20screen.png ) | ![ SAVE Screen]( https://github.com/MJ441/Joson/blob/main/save%20in%20dao.png) | ![Settings Screen]( https://github.com/MJ441/Joson/blob/main/save.png) |
-![Search screen](https://github.com/MJ441/Joson/blob/main/search.png)
+| [About Screen](https://github.com/MJ441/Joson/blob/main/About%20screen.png) | [Main Screen](https://github.com/MJ441/Joson/blob/main/Main%20screen.png ) | [ SAVE Screen]( https://github.com/MJ441/Joson/blob/main/save%20in%20dao.png) | [Settings Screen]( https://github.com/MJ441/Joson/blob/main/save.png) |
+[Search screen](https://github.com/MJ441/Joson/blob/main/search.png)
 ## Tech Stack 🛠️
 
 - **Kotlin**: Programming language.
